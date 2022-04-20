@@ -1,10 +1,11 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fw%2FOjDbai&psig=AOvVaw3eCo9QKGnw1f3VBzBRvcOu&ust=1650553405424000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNj6_ub0ovcCFQAAAAAdAAAAABAJ"/>
+![image](https://user-images.githubusercontent.com/93179741/164264270-e11005f6-aaa4-47ec-a068-34fa3416778e.png)
+
 
    Hello, my name is **Nida Farooq**!
    ===================================
  
 
- **Before joining School of Code - I'd never written a line of code. Since then, I've found my new passion - coding!**
+ **Before joining School of Code - I'd never seen a line of code. But since graduating, I've found my new passion - coding!**
 
 
  ---------------------------------------------------------------------------------------------------------------
@@ -55,5 +56,5 @@ Fun facts:
 
 **My LinkedIn profile can be found here : [Nida Farooq](https://www.linkedin.com/in/nida-f-982230234/)**
 ---------------------------------------------------------------------
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadacoder2021)](https://github.com/anuraghazra/github-readme-stats)
 
